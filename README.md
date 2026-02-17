@@ -1,16 +1,24 @@
-## Hi there 👋
+# Rahul Chaudhary – React Developer
 
-<!--
-**gitUserRahul/gitUserRahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with hands-on experience building production-ready web applications using React.js and Next.js. I specialize in creating responsive user interfaces, integrating REST APIs, and optimizing application performance.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js, Next.js, JavaScript (ES6+), TypeScript
+- HTML5, CSS3, Tailwind CSS, ShadCN UI
+- React Hooks, React Query, React Hook Form
+- Node.js, Express.js, MongoDB
+- Git, GitHub, GitLab, Bitbucket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- ChatBoq – AI-powered customer support SaaS platform  
+  https://www.chatboq.com
+- Sriyog – Business service platform (React → Next.js)  
+  https://sriyog.com
+- Antique – MERN stack e-commerce application  
+  https://antiques.onrender.com
+- Feminine – React shopping cart application  
+  https://feminine-react.netlify.app
+
+## Contact
+📧 rahuldahit@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rahul-chaudhary-188023210/
