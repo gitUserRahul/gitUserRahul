@@ -21,7 +21,9 @@ Frontend Developer with hands-on experience building production-ready web applic
 
 ## Freelancing Projects
 
-- [Frontend Project](http://13.232.131.66/frontend/)
+- [Capii Jobs](http://13.232.131.66/frontend/)
+  - *Description:* Job portal where I worked on components architecture, optimization, state management, and API integration.  
+  - *Tech Used:* React, Next.js, Tailwind CSS,React query, React Hook Form 
 
 - ## Contact
 📧 rahuldahit@gmail.com  
